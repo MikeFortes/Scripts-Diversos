@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Basic .gitattributes for a perl repo.
+
+# Source files
+# ============
+*.pl text diff=perl
+*.pm text diff=perl
+
+*.pl text diff=shell
+*.pm text diff=shell
+
+*.pl text diff=vbscrip
+*.pm text diff=vbscrip
+
