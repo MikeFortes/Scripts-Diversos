@@ -1,8 +1,8 @@
 # Scripts-Diversos
  Scripts diversos para atividades diarias (Shell, Python, Perl, etc...)
 
-- [Windows](https://github.com/Punkays/Scripts-Diversos/tree/main/Windows)
-- [Linux](https://github.com/Punkays/Scripts-Diversos/tree/main/Linux)
+- [Windows](https://github.com/MikeFortes/Scripts-Diversos/tree/main/Windows)
+- [Linux](https://github.com/MikeFortes/Scripts-Diversos/tree/main/Linux)
 
 Scripts adicionados diariamente conforme utilização no meu dia a dia. Qualquer duvida quanto a utilização, estou a disposição para ajudar.
 
@@ -14,4 +14,4 @@ Scripts adicionados diariamente conforme utilização no meu dia a dia. Qualquer
 ](https://twitter.com/mikes_script) - 
 - Email: mromeiro.f@gmail.com
 
-Project Link: [https://github.com/Punkays/Scripts-Diversos](https://github.com/Punkays/Scripts-Diversos)
+Project Link: [https://github.com/MikeFortes/Scripts-Diversos](https://github.com/MikeFortes/Scripts-Diversos)
